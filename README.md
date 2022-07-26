@@ -12,14 +12,14 @@ We manipulated the following variables in each trial: the environment where the 
 <img src = "README_images/indoor_demo.png" width="50%">
 </p>
 <p align = "center">
-Fig.1 - Outdoor game trial demonstration
+Fig.1 - Indoor game trial demonstration
 </p>
 
 <p align = "center">
 <img src = "README_images/outdoor_demo.png" width="50%">
 </p>
 <p align = "center">
-Fig.2 - Indoor game trial demonstration
+Fig.2 -Outdoor game trial demonstration
 </p>
 
 <p align = "center">
