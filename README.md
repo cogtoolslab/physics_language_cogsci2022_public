@@ -9,14 +9,14 @@ To address this gap, we conducted an online behavioral experiment in which parti
 We manipulated the following variables in each trial: the environment where the participants preform this task, the mass of the ball, the location where the ball was launched, and the force the ball was launched with. In order to introduce different latent forces that require different predictions to maintain high accuracy, we used two environments cued by different background images. In one environment, there is only gravity pulling downward (Fig.1); and in the other environment, there is both a downward gravity force and a rightward wind force (Fig.2). As these forces are evocative of indoor/outdoor environments, we use the indoor/outdoor nomenclature for simplicity throughout the paper. To elicit participants' inferences about physical parameters, we used three types of balls: light, medium and heavy. All balls are the same size, but have different colors and textures, allowing participants to learn a color/texture to mass mapping throughout the experiment (Fig.3).
 
 <p align = "center">
-<img src = "README_images/outdoor_demo.png" width="50%">
+<img src = "README_images/indoor_demo.png" width="50%">
 </p>
 <p align = "center">
 Fig.1 - Outdoor game trial demonstration
 </p>
 
 <p align = "center">
-<img src = "README_images/indoor_demo.png" width="50%">
+<img src = "README_images/outdoor_demo.png" width="50%">
 </p>
 <p align = "center">
 Fig.2 - Indoor game trial demonstration
